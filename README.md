@@ -1,16 +1,13 @@
-### Hi there 👋
+Welcome to my GitHub profile! 👋
 
-<!--
-**ssaili/ssaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm retraining as a Front End Developer with OpenClassrooms (React.js).
+
+## My Projects
+
+You can learn more about my Openclassrooms projects by visiting [my repositories](https://github.com/ssaili?tab=repositories).
+
+
+Thanks for visiting my profile! 😊
