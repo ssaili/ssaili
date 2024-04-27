@@ -13,5 +13,7 @@ Curieux d'apprendre et motivé, je suis prêt à relever de nouveaux défis au s
 
 N'hésitez pas à parcourir [mes dépôts](https://github.com/ssaili?tab=repositories) GitHub pour découvrir mes réalisations !
 
+Vous pouvez également consulter [mon portfolio](https://ssaili.github.io/Portfolio/) et [mon profil LinkedIn](https://www.linkedin.com/in/iliassey/).
+
 
 Merci d'avoir visité mon profil! 😊
