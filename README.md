@@ -11,7 +11,7 @@ Curieux d'apprendre et motivé, je suis prêt à relever de nouveaux défis au s
 
 ## Mes projets
 
-N'hésitez pas à parcourir mes dépôts GitHub pour découvrir mes réalisations ! [Mes dépôts](https://github.com/ssaili?tab=repositories).
+N'hésitez pas à parcourir [mes dépôts](https://github.com/ssaili?tab=repositories) GitHub pour découvrir mes réalisations !
 
 
 Merci d'avoir visité mon profil! 😊
