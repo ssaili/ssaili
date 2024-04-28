@@ -8,7 +8,7 @@ Ce titre RNCP a été obtenu grâce à une formation intensive de 12 mois chez O
 
 Curieux d'apprendre et motivé, je suis prêt à relever de nouveaux défis au sein de projets web innovants.
 
-## 🔗 Links
+## 🔗 Liens
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssaili.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliassey/)
 
